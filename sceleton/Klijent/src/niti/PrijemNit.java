@@ -34,7 +34,7 @@ public class PrijemNit extends Thread {
             
             while (true) {
                 String s = in.readLine();
-                System.out.println("SERVER KAZE: "+s);
+                //System.out.println("SERVER KAZE: "+s);
             }
             // super.run(); //To change body of generated methods, choose Tools | Templates.
         } catch (IOException ex) {
